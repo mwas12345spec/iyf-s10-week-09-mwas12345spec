@@ -41,5 +41,6 @@ React concepts such as hooks, data fetching, routing, and reusable components.
 - Handling loading states properly
 
 ## Live Demo 
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://mwas12345spec.github.io/iyf-s10-week-09-mwas12345spec/
+)
 
